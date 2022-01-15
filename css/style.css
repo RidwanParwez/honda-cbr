@@ -1,0 +1,18 @@
+.honda-bg-color{
+   background-color:#264653 ;
+}
+.honda-btn-color{
+    background-color: #E76F51;
+}
+.honda-text-primary{
+  color: #23A6F0;
+}
+.f-bike-gray{
+  filter: grayscale(100%);
+}
+.fa-star.filled{
+  color: #ffc014;;
+}
+.fa-star.empty{
+  color: rgb(150, 127, 127);
+}
